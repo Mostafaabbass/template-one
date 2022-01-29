@@ -1,0 +1,10 @@
+:root{
+    --main-color: #10cab7;
+    --second-color: #2c4755;
+    --main-transition: .3s;
+    --main-padding: 60px;
+    --section-background: #f6f6f6;
+}
+.intro .container h1{
+    color: var(--main-color);
+}
